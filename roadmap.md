@@ -1,0 +1,14 @@
+- [x] Real photos
+- [x] Story 2-col + small vertical real photo
+- [x] Rating badge + 5 reviews
+- [x] IT/EN switch
+- [x] Booking notes field
+- [x] Buttons + mobile scroll fixes
+- [x] Insert five uploaded menu photos and verify circular crops and smartphone alignment
+- [x] Separate Home, Menu and Book now with scroll reveal and shared IT/EN navigation
+- [x] Add clickable dish details and safe allergen information
+- [x] Add reservation codes and QR staff check-in
+- [x] Adapt uploaded admin page for bookings and table management
+- [x] Ghost menu editor (intentional non-persistent) — real edit requires developer
+- [ ] Include full admin: staff accounts, menu editor, orders, kitchen, bills, sales, chat and offers
+- [ ] Verify mobile navigation, booking and staff check-in
